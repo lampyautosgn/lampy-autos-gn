@@ -1,0 +1,37 @@
+LAMPY AUTOS GN — SITE WEB GRATUIT
+
+Fichiers :
+- index.html : contenu du site
+- style.css : design noir et or, responsive
+- script.js : menu mobile et petites interactions
+- logo-lampy-autos-gn.png : logo principal intégré au site
+
+Contact WhatsApp déjà intégré :
++224 621 64 18 49
+
+À personnaliser avant publication :
+1. Remplacer les trois blocs photo par les vraies photos des véhicules.
+2. Remplacer les exemples de véhicules par les annonces réellement disponibles.
+3. Ajouter l'URL de la page Facebook dans index.html (lien avec id="facebook-link").
+4. Ajouter éventuellement ton logo officiel.
+
+Publication gratuite avec GitHub Pages :
+1. Crée un compte sur https://github.com
+2. Crée un nouveau dépôt public nommé lampy-autos-gn
+3. Téléverse index.html, style.css et script.js à la racine du dépôt.
+4. Ouvre Settings > Pages.
+5. Dans Build and deployment, choisis Deploy from a branch, puis main et / (root), et sauvegarde.
+6. GitHub affichera l'adresse publique de ton site.
+
+Le site est un modèle prêt à personnaliser. Les annonces de démonstration ne représentent pas des véhicules disponibles.
+
+Catalogue initial intégré :
+- BMW 318i 2000 — 33 000 000 FG
+- BMW E46 318i — 49 000 000 FG (discutable)
+- Hyundai Tucson AWD 2018 — 160 000 000 FG (légèrement négociable)
+- Hyundai HG300 2013 — 95 000 000 FG (discutable)
+- Hyundai Elantra 2015 — 68 000 000 FG (discutable)
+- Hyundai Elantra Limited 2015 — 90 000 000 FG
+
+Chaque affiche est cliquable pour être agrandie et chaque annonce possède un lien WhatsApp prérempli.
+Vérifier la disponibilité des véhicules avant publication.
